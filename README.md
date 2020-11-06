@@ -1,6 +1,6 @@
 # Cluedo - Mystery Randomizer
 
-Who did it? Professor Plum in the librar, with a candlestick? Get a random revelation to the classic board game crime.
+Who did it? Professor Plum in the library, with a candlestick? Get a random revelation to the classic board game crime.
 
 ## Technology
 Randomiser in JavaScript, HTML and CSS.
